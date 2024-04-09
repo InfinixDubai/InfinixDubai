@@ -16,7 +16,7 @@ Infinix is a brand that combines innovation, style, and functionality in its mob
 
 ## Getting Started
 
-1. Visit the Global Infinix Website to explore their product lineup.
+1. Visit the Global Infinix Website to explore our product lineup.
 
 2. If you're in India, check out Infinix Mobiles India for localized information.
 
