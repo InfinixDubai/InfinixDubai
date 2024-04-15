@@ -1,6 +1,6 @@
-# Infinix Website
+# Infinix Innovationss
 
-Welcome to the Infinix website! 🌐
+Welcome to the [Infinix](https://infinix.me/)! 🌐
 
 ## Overview
 
@@ -16,7 +16,7 @@ Infinix is a brand that combines innovation, style, and functionality in its mob
 
 ## Getting Started
 
-1. Visit the Global Infinix Website to explore our product lineup.
+1. Visit the [Global Infinix Website](https://infinix.me/) to explore our product lineup.
 
 2. If you're in India, check out Infinix Mobiles India for localized information.
 
